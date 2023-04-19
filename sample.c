@@ -8,4 +8,5 @@ int main() {
 	print("Hello World!");
 	printf("dis is Khel");
 
+	printf("hii dae!!!");
 }
