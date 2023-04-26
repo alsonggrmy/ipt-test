@@ -9,4 +9,6 @@ int main() {
 	printf("dis is Khel");
 
 	printf("hii dae!!!");
+
+	printf("hello Wednesday");
 }
