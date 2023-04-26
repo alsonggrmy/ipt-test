@@ -11,4 +11,5 @@ int main() {
 	printf("hii dae!!!");
 
 	printf("hello Wednesday");
+	printf("git stash");
 }
